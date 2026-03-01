@@ -171,7 +171,7 @@
         {
           "id": "sub_020",
           "title": "5. You review: Approve → Done, or add feedback → back to In Progress",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_021",
