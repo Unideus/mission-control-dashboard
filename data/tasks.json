@@ -44,7 +44,7 @@
         {
           "id": "sub_007",
           "title": "7. Add GitHub Webhook: Settings → Webhooks → Add → URL: https://YOUR-TAILSCALE-URL/hooks/github?token=YOUR-TOKEN",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_008",
