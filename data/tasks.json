@@ -166,7 +166,7 @@
         {
           "id": "sub_019",
           "title": "4. MoltBot moves to 'Review' when done",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_020",
