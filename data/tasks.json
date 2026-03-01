@@ -151,12 +151,12 @@
         {
           "id": "sub_016",
           "title": "1. Create task in Backlog with clear description",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_017",
           "title": "2. Move to 'In Progress' → MoltBot gets notified via webhook",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_018",
