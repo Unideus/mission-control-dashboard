@@ -196,12 +196,12 @@
         {
           "id": "sub_025",
           "title": "📦 Archive: Store completed tasks out of sight",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_026",
           "title": "👥 Team: See repo collaborators (if public)",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_027",
