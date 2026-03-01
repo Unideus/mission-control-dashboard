@@ -216,7 +216,7 @@
         {
           "id": "sub_029",
           "title": "🤖 Can CREATE tasks (via CLI or JSON)",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_030",
