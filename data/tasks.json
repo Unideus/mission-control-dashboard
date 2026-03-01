@@ -76,12 +76,12 @@
         {
           "id": "sub_001",
           "title": "— THE BOARD —",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_002",
           "title": "Columns: Permanent (recurring) → Backlog → In Progress → Review → Done",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_003",
