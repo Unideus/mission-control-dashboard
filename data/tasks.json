@@ -151,22 +151,22 @@
         {
           "id": "sub_016",
           "title": "1. Create task in Backlog with clear description",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_017",
           "title": "2. Move to 'In Progress' → MoltBot gets notified via webhook",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_018",
           "title": "3. MoltBot works on task, updates subtasks & adds comments",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_019",
           "title": "4. MoltBot moves to 'Review' when done",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_020",
@@ -176,12 +176,12 @@
         {
           "id": "sub_021",
           "title": "— DASHBOARD FEATURES —",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_022",
           "title": "🔍 Search: Filter tasks by text",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_023",
