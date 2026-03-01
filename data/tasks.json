@@ -231,12 +231,12 @@
         {
           "id": "sub_032",
           "title": "🤖 Can DELETE/archive tasks",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_033",
           "title": "🤖 Receives WEBHOOK when you move tasks to In Progress",
-          "done": false
+          "done": true
         }
       ],
       "priority": "medium",
