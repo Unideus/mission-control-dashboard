@@ -186,12 +186,12 @@
         {
           "id": "sub_023",
           "title": "📁 Project filter: Click project buttons to filter",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_024",
           "title": "⚙️ Settings: Add/edit projects",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_025",
