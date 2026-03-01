@@ -34,7 +34,7 @@
         {
           "id": "sub_005",
           "title": "5. Enable Funnel: tailscale funnel 18789 → Copy your URL",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_006",
