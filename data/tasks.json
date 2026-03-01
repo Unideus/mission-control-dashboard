@@ -221,7 +221,7 @@
         {
           "id": "sub_030",
           "title": "🤖 Can UPDATE task status, subtasks, comments",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_031",
