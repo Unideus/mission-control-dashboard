@@ -121,12 +121,12 @@
         {
           "id": "sub_010",
           "title": "Description: Detailed instructions (Markdown supported)",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_011",
           "title": "Subtasks: Break work into smaller steps (checkable)",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_012",
