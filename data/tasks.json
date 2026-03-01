@@ -49,7 +49,7 @@
         {
           "id": "sub_008",
           "title": "8. Test: Create a task, move to In Progress, verify MoltBot receives notification",
-          "done": false
+          "done": true
         }
       ],
       "priority": "high",
